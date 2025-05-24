@@ -106,11 +106,3 @@ These emojis are broadly supported and render well on GitHub and most systems:
 
 *This white paper was written in bed. Under a blanket. While debugging a Helm chart.*  
 *No emojis were harmed in the making of this doc.*
-
----
-
-## Suggested Repo Name
-
-**emoji-logging-manifest**
-
-A playful but practical guide to making your logs easier to read, more human, and a little more fun.
